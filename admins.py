@@ -1,12 +1,3 @@
-# 1. Napisz funkcję, która wypisuje z pierwszej listy imiona i nazwiska
-# wszystkich adminów, po jednym adminie na linijkę.
-
-# 2. Napisz funkcję, która sprawdza, czy w drugiej strukturze jest
-# Ervin Howell i czy nie ma Johna Smitha.
-
-# 3.Napisz funkcję, która zwróci listę długości geograficznych
-# każdego z adminów.
-
 admin_names = [
     "Leanne Graham",
     "Ervin Howell",
